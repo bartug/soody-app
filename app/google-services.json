@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7389518187",
+    "firebase_url": "https://soody-b5917-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "soody-b5917",
+    "storage_bucket": "soody-b5917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7389518187:android:25a9e8580fe1ac6dcfd42e",
+        "android_client_info": {
+          "package_name": "com.example.soody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7389518187-q22hmob05j1aftcrfm44ea174rg4s106.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoiXHwDf1M2g7fSiodLNdpECpGYFfIHZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7389518187-q22hmob05j1aftcrfm44ea174rg4s106.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

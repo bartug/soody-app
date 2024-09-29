@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#86c8bc</color>
+    <color name="purple_500">#ceedc7</color>
+    <color name="purple_700">#e8f3d6</color>
+    <color name="teal_200">#fff6bd</color>
+    <color name="teal_700">#ffd4b2</color>
+    <color name="black">#333231</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#fc7f32</color>
+    <color name="lightpurple">#feead3</color>
+    <color name="rectangle_7_color">#FFFFFF</color>
+    <color name="_bg__frame_1_ek2_color">#000000</color>
+</resources>

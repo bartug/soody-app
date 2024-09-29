@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Soody</string>
+    <string name="errorintflite">Could not initialize classifier and views</string>
+    <string name="modunuz_bulunamad__string">Modunuz Bulunamadı</string>
+    <string name="______value_string">Modunu Bul</string>
+    <string name="oynat__string">OYNAT!</string>
+    <string name="modunu_y_kselt_string">Modunu Yükselt</string>
+
+    <string name="modunu_y_kselt_ek1_string">Modunu Yükselt</string>
+
+    <string name="modunda_kal__string">Modunda Kal</string>
+
+    <string name="modunda_kal__ek1_string">Modunda Kal</string>
+
+    <string name="foto_raf_n___ek_yapay_zeka_moduna_g_re__nersin__string">Fotoğrafını Çek Yapay Zeka Önersin!</string>
+
+    <string name="emojilerden_modunu_se__yapay_zeka_moduna_g_re__nersin_string">Emojilerden Modunu Seç Yapay Zeka Önersin</string>
+
+    <string name="emojilerden_modunu_se__yapay_zeka_moduna_g_re__nersin_ek1_string">Emojilerden Modunu Seç Yapay Zeka Önersin</string>
+
+    <string name="foto_raf_n___ek_yapay_zeka_moduna_g_re__nersin__ek1_string">Fotoğrafını Çek Yapay Zeka Önersin!</string>
+</resources>

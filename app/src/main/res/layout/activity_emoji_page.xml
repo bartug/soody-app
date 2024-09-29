@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/android_lar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EmojiPage">
+
+        <RelativeLayout
+            android:id="@+id/page_android_small___1_ek1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp">
+
+            <View
+                android:id="@+id/_bg__android_small___1_ek2"
+                android:layout_width="340dp"
+                android:layout_height="640dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/_bg__android_small___1_ek2_shape" />
+
+
+            <ImageView
+                android:id="@+id/what_s_your_mood_today__instagram_story__2__1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:contentDescription="what_s_your_mood_today__instagram_story__2__1"
+                android:scaleType="centerCrop"
+                android:src="@drawable/what_s_your_mood_today__instagram_story__2__1" />
+
+            <ImageView
+                android:id="@+id/happy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="190dp"
+                android:contentDescription="untitled_design_8_"
+                android:src="@drawable/untitled_design_8_" />
+
+            <ImageView
+                android:id="@+id/angry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="185dp"
+                android:layout_marginTop="190dp"
+                android:contentDescription="untitled_design_9_"
+                android:src="@drawable/untitled_design_9_" />
+
+            <ImageView
+                android:id="@+id/suprise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="330dp"
+                android:contentDescription="untitled_design_12_"
+                android:src="@drawable/untitled_design_12_" />
+
+            <ImageView
+                android:id="@+id/sad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="185dp"
+                android:layout_marginTop="330dp"
+                android:contentDescription="untitled_design_11_"
+                android:src="@drawable/untitled_design_11_" />
+
+            <ImageView
+                android:id="@+id/neutral"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="122dp"
+                android:layout_marginTop="465dp"
+                android:contentDescription="untitled_design_10_"
+                android:src="@drawable/untitled_design_10_" />
+
+        </RelativeLayout>
+
+</RelativeLayout>
